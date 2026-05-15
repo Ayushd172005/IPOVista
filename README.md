@@ -1,8 +1,8 @@
-# 📈 StockSense - ML-Based Stock Price Movement Predictor
+# 📈 IPOVista - ML-Based Stock Price Movement Predictor
 
 <div align="center">
 
-![StockSense Banner](https://img.shields.io/badge/StockSense-ML%20Stock%20Predictor-blueviolet?style=for-the-badge&logo=tensorflow)
+![IPOVista Banner](https://img.shields.io/badge/IPOVista-ML%20Stock%20Predictor-blueviolet?style=for-the-badge&logo=tensorflow)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
@@ -94,8 +94,8 @@ pip or conda
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/stocksense.git
-cd stocksense
+git clone https://github.com/yourusername/IPOVista.git
+cd IPOVista
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -108,8 +108,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 **Using conda:**
 ```bash
-conda create -n stocksense python=3.9
-conda activate stocksense
+conda create -n IPOVista python=3.9
+conda activate IPOVista
 ```
 
 ### Step 3: Install Dependencies
@@ -227,7 +227,7 @@ print(f"Probabilities: {result['probabilities']}")
 ## 🏗️ Project Structure
 
 ```
-StockSense/
+IPOVista/
 │
 ┣ 📂 data/
 ┃ ┣ 📂 raw/                    # Raw stock data (CSV)
@@ -476,7 +476,7 @@ Contributions are welcome! Here's how you can help:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/yourusername/stocksense.git
+   git clone https://github.com/yourusername/IPOVista.git
    ```
 
 2. **Create Feature Branch**
@@ -562,11 +562,11 @@ in the Software without restriction...
 
 ### 📬 Get in Touch
 
-**Questions?** Open an [Issue](https://github.com/yourusername/stocksense/issues)
+**Questions?** Open an [Issue](https://github.com/yourusername/IPOVista/issues)
 
-**Feature Requests?** Start a [Discussion](https://github.com/yourusername/stocksense/discussions)
+**Feature Requests?** Start a [Discussion](https://github.com/yourusername/IPOVista/discussions)
 
-**Found a Bug?** Submit a [Bug Report](https://github.com/yourusername/stocksense/issues/new)
+**Found a Bug?** Submit a [Bug Report](https://github.com/yourusername/IPOVista/issues/new)
 
 </div>
 
@@ -580,7 +580,7 @@ If you find this project useful, please consider giving it a star! ⭐
 <div align="center">
 
 
-Made with ❤️ and Python | © 2024 StockSense
+Made with ❤️ and Python | © 2024 IPOVista
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/Powered%20by-TensorFlow-orange?style=flat-square)

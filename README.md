@@ -78,7 +78,7 @@ IPOVista/
 - **[Chart.js 4](https://www.chartjs.org/)** — bar charts, histograms, benchmark comparisons
 - **Google Fonts** — Syne · DM Mono · Inter
 - **Vercel** — static hosting via `IPOVista_Deployment`
-
+Video Explaination-https://www.loom.com/share/fe89a189e3b043f59ef894da66480ed3
 ---
 
 ## Local Development
